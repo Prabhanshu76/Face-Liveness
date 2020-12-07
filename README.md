@@ -10,6 +10,8 @@ ROLL, PITCH, and YAW of the face are detected using a pre-trained deep learning 
 
 ![Demo](Face_Landmarks.png)
 
+Required Models: https://drive.google.com/drive/folders/1BLgnnZBuq7sJOIZz6eIKnkLDbVDOvDYn?usp=sharing
+
 
 ![Demo](Face_Orientation_Demo.gif)
 
