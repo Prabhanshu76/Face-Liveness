@@ -13,6 +13,4 @@ ROLL, PITCH, and YAW of the face are detected using a pre-trained deep learning 
 Required Models: https://drive.google.com/drive/folders/1BLgnnZBuq7sJOIZz6eIKnkLDbVDOvDYn?usp=sharing
 
 
-![Demo](Face_Orientation_Demo.gif)
-
 Reference:https://medium.com/analytics-vidhya/face-pose-estimation-with-deep-learning-eebd0e62dbaf
